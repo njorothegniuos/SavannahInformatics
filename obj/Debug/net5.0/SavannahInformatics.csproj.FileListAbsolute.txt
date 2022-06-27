@@ -1,0 +1,16 @@
+E:\CODE\SavannahInformatics\bin\Debug\net5.0\SavannahInformatics.exe
+E:\CODE\SavannahInformatics\bin\Debug\net5.0\SavannahInformatics.deps.json
+E:\CODE\SavannahInformatics\bin\Debug\net5.0\SavannahInformatics.runtimeconfig.json
+E:\CODE\SavannahInformatics\bin\Debug\net5.0\SavannahInformatics.runtimeconfig.dev.json
+E:\CODE\SavannahInformatics\bin\Debug\net5.0\SavannahInformatics.dll
+E:\CODE\SavannahInformatics\bin\Debug\net5.0\ref\SavannahInformatics.dll
+E:\CODE\SavannahInformatics\bin\Debug\net5.0\SavannahInformatics.pdb
+E:\CODE\SavannahInformatics\obj\Debug\net5.0\SavannahInformatics.csproj.AssemblyReference.cache
+E:\CODE\SavannahInformatics\obj\Debug\net5.0\SavannahInformatics.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\SavannahInformatics\obj\Debug\net5.0\SavannahInformatics.AssemblyInfoInputs.cache
+E:\CODE\SavannahInformatics\obj\Debug\net5.0\SavannahInformatics.AssemblyInfo.cs
+E:\CODE\SavannahInformatics\obj\Debug\net5.0\SavannahInformatics.csproj.CoreCompileInputs.cache
+E:\CODE\SavannahInformatics\obj\Debug\net5.0\SavannahInformatics.dll
+E:\CODE\SavannahInformatics\obj\Debug\net5.0\ref\SavannahInformatics.dll
+E:\CODE\SavannahInformatics\obj\Debug\net5.0\SavannahInformatics.pdb
+E:\CODE\SavannahInformatics\obj\Debug\net5.0\SavannahInformatics.genruntimeconfig.cache
